@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="recyclebot.fcstd" source="original">
+    <mtime>1527703844</mtime>
+    <size>55221977</size>
+    <md5>e990c0f1643804681a95df49708e0a35</md5>
+    <crc32>4a04ddc8</crc32>
+    <sha1>8e3f803eebc9359f22e07ec5965c9ef7a9b865ba</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="recyclebot_archive.torrent" source="metadata">
+    <btih>2e2f0f5fa2032cd241f978d3b938a0f90af017e3</btih>
+    <mtime>1613628284</mtime>
+    <size>3704</size>
+    <md5>736468b74d258175eab1e107de6cb7cc</md5>
+    <crc32>cd02835a</crc32>
+    <sha1>212ac08230592291c739d9c83d03afe3b2c8035b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="recyclebot_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a65880529aad4e7ede9153f9c6f2c86e</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="recyclebot_meta.sqlite" source="original">
+    <mtime>1527703869</mtime>
+    <size>11264</size>
+    <md5>89ba96000c482b93cbbdf92fa41fe987</md5>
+    <crc32>38480e6a</crc32>
+    <sha1>b7e7fca42660959641dbfcbba1b1ddd1aad35ba1</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="recyclebot_meta.xml" source="original">
+    <mtime>1613628283</mtime>
+    <size>1012</size>
+    <format>Metadata</format>
+    <md5>6218d255092186e2298a21c97fabee64</md5>
+    <crc32>1c00b421</crc32>
+    <sha1>cc99c3c408be4a3ed3d53b3ac8375a69e553a892</sha1>
+  </file>
+</files>
